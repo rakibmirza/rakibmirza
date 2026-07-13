@@ -137,6 +137,7 @@ Although most of my engineering work is maintained in private repositories, GitH
   <img src="assets/contributions-July-2026.png" width="100%" alt="GitHub Contributions">
 </p>
 
+
 ## 🤝 Let's Connect
 
 I enjoy discussing:
