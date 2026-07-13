@@ -129,6 +129,14 @@ An enterprise platform enabling autonomous AI agents to collaborate across the c
 
 ---
 
+## 📈 GitHub Activity
+
+Although most of my engineering work is maintained in private repositories, GitHub still reflects my ongoing development activity.
+
+<p align="center">
+  <img src="assets/contributions-July-2026.png" width="100%" alt="GitHub Contributions">
+</p>
+
 ## 🤝 Let's Connect
 
 I enjoy discussing:
